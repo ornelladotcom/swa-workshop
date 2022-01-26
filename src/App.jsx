@@ -11,6 +11,7 @@ function App() {
             <DogList />
 
             {/* TODO: Add message */}
+            <div>Hosted on Azure Static Web Apps</div>
             
 
         </article>
